@@ -1,4 +1,4 @@
-<h2>Olá, Sou Felipe estudante da Area de Desenvolvimento de Sistemas</h1><hr>
+<h2>Olá, Sou Felipe estudante da Área de Desenvolvimento de Sistemas</h2><hr>
 <div align="center">
   <a href="https://github.com/felipe5155">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe5155&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
